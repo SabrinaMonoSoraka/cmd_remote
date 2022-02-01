@@ -1,4 +1,4 @@
-<h1>CMD Remote</h1>
+<h2>Shell via Powershell + Persistence + 100% FUD</h2>
 
 <img src="https://cdn.discordapp.com/attachments/581170733565214731/937880610645635093/2.png">
 
