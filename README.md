@@ -23,6 +23,6 @@ python main.py
 
 ## YouTube
 
-[![Vídeo Tutorial](http://img.youtube.com/vi//-jmhWaCJ44c/0.jpg)](http://www.youtube.com/watch?v=/-jmhWaCJ44c "Vídeo Tutorial")
+[![Vídeo Tutorial](https://img.youtube.com/vi/-jmhWaCJ44c/0.jpg)](http://www.youtube.com/watch?v=/-jmhWaCJ44c "Vídeo Tutorial")
 
 
